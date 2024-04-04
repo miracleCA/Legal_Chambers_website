@@ -1,0 +1,100 @@
+#s1 {
+    margin-top: 10px;
+}
+#s2 {
+    color: #fff; 
+    font-size: 16px;
+}
+#s3 {
+    color: #fff; 
+    font-size: 20px;
+}
+#s4 {
+    padding-bottom: 0px; 
+    background-color: #ffffff;
+}
+#s5{
+    margin-bottom: 0px;
+}
+#s6 {
+    visibility: hidden !important;
+}
+#s7 {
+    color:#fff;
+}
+#s9 {
+    background-image: url('../upload/bg-service-half.jpg') center 0px;
+}
+#s10 {
+    background-color: #f5f5f5; 
+    padding-top: 65px;
+}
+#s11 {
+    font-size: 17px; 
+    color: #333; 
+    font-weight: 600; 
+    margin-bottom: 12px; 
+    display: inline-block;
+}
+#gdlr-parallax-wrapper-1 {
+    background-image: url('../upload/bg-homepage-service.jpg'); 
+    padding-bottom: 0px;
+}
+#gdlr-parallax-wrapper-2 {
+    background-image: url('../upload/bg-contact-hp.jpg'); 
+    padding-top: 70px;
+    padding-bottom: 0px;
+}
+#s13 {
+    color: #fff; 
+    font-size: 24px;
+}
+#rev_slider_1_1_wrapper {
+    margin:0px auto;
+    background:#202020;
+    padding:0px;
+    margin-top:0px;
+    margin-bottom:0px;
+}
+#slide-1-layer-1, #slide-2-layer-1 {
+    z-index: 5; 
+    white-space: 
+    nowrap; 
+    font-size: 38px; 
+    line-height: 38px; 
+    font-weight: 400; 
+    color: #b6a281; 
+    letter-spacing: 2px; 
+    font-family: Open Sans; 
+    text-transform: uppercase;
+}
+#slide-2-layer-3, #slide-1-layer-3 {
+    z-index: 6; 
+    background-color: rgb(182, 162, 129);
+}
+#slide-1-layer-4, #slide-2-layer-4 {
+    z-index: 7; white-space: nowrap; font-size: 102px; line-height: 102px; font-weight: 700; color: #ffffff; letter-spacing: 8px; font-family: Open Sans; text-transform: uppercase;
+}
+#slide-1-layer-5, #slide-2-layer-5 {
+    z-index: 8; min-width: 610px; max-width: 610px; max-width: 81px; max-width: 81px; white-space: normal; font-size: 20px; line-height: 38px; font-weight: 500; color: #dedede; letter-spacing: 0px; font-family: Open Sans;
+}
+#slide-1-layer-7, #slide-2-layer-7 {
+    z-index: 9;
+    white-space: nowrap;
+    font-size: 12px;
+    line-height: 17px;
+    font-weight: 700;
+    color: rgba(255, 255, 255, 1);
+    letter-spacing: 2.5px;
+    font-family: Open Sans;
+    text-transform: uppercase;
+    background: linear-gradient(180deg, rgba(131, 102, 62, 1) 0%, rgba(176, 150, 106, 1) 100%);
+    border-color: rgba(0, 0, 0, 1);
+    border-radius: 3px 3px 3px 3px;
+    outline: none;
+    box-shadow: none;
+    box-sizing: border-box;
+    -moz-box-sizing: border-box;
+    -webkit-box-sizing: border-box;
+    cursor: pointer;
+}
